@@ -1,0 +1,9 @@
+# WordPress core (not needed for static)
+wp-includes/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
